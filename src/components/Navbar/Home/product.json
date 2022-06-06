@@ -1,0 +1,26 @@
+[
+    {
+        "img": "https://i.ibb.co/CWXGXLY/gaming-Motherboard.jpg",
+        "name": "Gaming Asus Rog motherboard",
+        "des": "ROG was founded with the goal of creating the world's most powerful and versatile gaming laptops in the industry. Our premium devices elevate gaming experiences with best-in-class displays, top tier graphics, and innovative cooling solutions that take performance to new heights.",
+        "minimunOrder": 500,
+        "availabe": 50000,
+        "price": 50
+    },
+    {
+        "img": "https://i.ibb.co/7N4SgMV/gaming-Pc-Case.jpg",
+        "name": "Rgba Gaming pc Case",
+        "des": "A computer case, also known as a computer chassis, is the enclosure that contains most of the components of a personal computer (usually excluding the display, keyboard, and mouse). Cases are usually constructed from steel (often SECC—steel, electrogalvanized, cold-rolled, coil), aluminium and plastic. Other materials such as glass, wood, acrylic and even Lego bricks have appeared in home-built cases.",
+        "minimunOrder": 500,
+        "availabe": 50000,
+        "price": 50
+    },
+    {
+        "img": "https://i.ibb.co/N1rmn4s/graphic-Card.jpg",
+        "name": "The GeForce RTX™ 3090 Ti",
+        "des": "The GeForce RTX™ 3090 Ti and 3090 are big ferocious GPUs (BFGPUs) with TITAN class performance. Powered by Ampere—NVIDIA's 2nd gen RTX architecture—they double down on ray tracing and AI performance with enhanced Ray Tracing Cores, Tensor Cores, and new streaming multiprocessors.",
+        "minimunOrder": 500,
+        "availabe": 50000,
+        "price": 50
+    }
+]
